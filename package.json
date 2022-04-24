@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "David Rakosi <drakosi@icloud.com>",
+  "author": "dz",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
